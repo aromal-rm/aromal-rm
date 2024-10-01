@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_____kd_______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_____kd_______" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aromal-rm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aromal-rm/" height="30" width="40" /></a>
+<a href="hhttps://www.linkedin.com/in/aromal-rm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aromal-rm/" height="30" width="40" /></a>
 <a href="https://instagram.com/aromal.rm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aromal.rm" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kd-2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kd-2004" height="30" width="40" /></a>
 </p>
